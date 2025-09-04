@@ -1,4 +1,5 @@
 import { AppPageProps } from '@/types/index';
+import { route as ziggyRoute } from 'ziggy-js';
 
 // Extend ImportMeta interface for Vite...
 declare module 'vite/client' {
